@@ -1,4 +1,4 @@
-package com.everis.main;
+package com.everis.GIT;
 
 /**
  * Formación - GIT
@@ -19,6 +19,8 @@ public class EverisMain {
 		
 		/* INTRODUCIR NUEVOS SALUDOS */
 
+		System.out.println("Hola mundo, soy Javier Ramos López");
+		
 	}
 
 }
